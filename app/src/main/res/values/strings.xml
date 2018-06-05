@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab3Notebook</string>
+    <string name="txt_screen_2">Теги</string>
+    <string name="txt_screen_1">Заметки</string>
+</resources>
